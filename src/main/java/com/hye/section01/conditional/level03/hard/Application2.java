@@ -1,4 +1,4 @@
-package com.hye.section01.conditional.level04;
+package com.hye.section01.conditional.level03.hard;
 
 import java.util.Scanner;
 
